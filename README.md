@@ -9,4 +9,4 @@ Check out the output of this analysis in the [`Pollution_effects_on_health_outco
 ## Cite  
 Use is restricted to academic, non-commercial purposes only. Citation of the following article(s) is required:
 
-* TBA
+* Moroșan, A., Belbe, Ș., Mihaiu, D. M., Bunescu, L., Vasiu, D. E., & Tăvală, F. M. (2026). Exploring the nexus between environmental taxation, air pollution, and health outcomes in emerging and non-emerging EU countries: a space-time perspective. Frontiers in Public Health, 14, 1896504.
